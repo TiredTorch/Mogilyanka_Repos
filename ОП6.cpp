@@ -6,6 +6,8 @@ using namespace std;
 
 int main()
 {
+	int pld;
+
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
 
