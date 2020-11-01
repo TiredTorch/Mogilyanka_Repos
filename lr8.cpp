@@ -6,6 +6,8 @@ using namespace std;
 
 int main()
 {
+	//Створення додаткового коментаря
+
 	float x, y;
 	cout << "Enter first number: ";
 	cin >> x;
